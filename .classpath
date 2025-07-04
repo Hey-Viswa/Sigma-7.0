@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01_Arrays"/>
+	<classpathentry kind="src" path="02_Strings"/>
+	<classpathentry kind="src" path="03_SearchingAndSorting"/>
+	<classpathentry kind="src" path="04_Recursion"/>
+	<classpathentry kind="src" path="05_BackTracking"/>
+	<classpathentry kind="src" path="06_LinkedList"/>
+	<classpathentry kind="src" path="07_BitManipulation"/>
+	<classpathentry kind="src" path="08_DivideAndConquer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,3 +1,24 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.sources.organizeImports.starThreshold": 99,
+    "java.sources.organizeImports.staticStarThreshold": 99,
+    "java.project.sourcePaths": [
+        "01_Arrays",
+        "02_Strings", 
+        "03_SearchingAndSorting",
+        "04_Recursion",
+        "05_BackTracking",
+        "06_LinkedList",
+        "07_BitManipulation",
+        "08_DivideAndConquer"
+    ],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
 }

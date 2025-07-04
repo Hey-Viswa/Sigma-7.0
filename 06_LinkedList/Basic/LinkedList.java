@@ -1,3 +1,4 @@
+package Basic;
 
 /**
  * LinkedList Implementation with all basic operations
@@ -16,7 +17,6 @@ public class LinkedList {
     public static class Node {
         public int data; // Data stored in the node
         public Node next; // Reference to the next node
-        public Node prev;
 
         public Node(int data) {
             this.data = data;
@@ -207,7 +207,7 @@ public class LinkedList {
         return -1;
     }
 
-    /** 
+    /**
      * Recursive helper method to search for a key in LinkedList
      * Time Complexity: O(n)
      * Space Complexity: O(n) - due to recursion stack
@@ -218,13 +218,25 @@ public class LinkedList {
         }
         if (head.data == key) {
             return 0;
-        }  
-     
-
-        if (idx == -1) { 
+        }
+        int idx = helper(head.next, key);
+        if (idx == -1) {
             return -1;
         }
         return idx + 1;
+    }
+
+    public void reverse() {
+        Node prev = null;
+        Node curr = tail = head;
+        Node next;
+        while (curr != null) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        head = prev;
     }
 
     /**
@@ -240,12 +252,38 @@ public class LinkedList {
         return helper(head, key);
     }
 
+    // this question is asked in Amazon, Adobe, Flipkart and more.
+    // Find and remove the nth node from the linked list.
+    public void deleteNthFromEnd(int n) {
+        // calculate size
+        int sz = 0;
+        Node temp = head;
+        while (temp != null) {
+            temp = temp.next;
+            sz++;
+        }
+        if (n == sz) {
+            head = head.next; // remove first 
+            return;
+        }
+        // sz - n
+        int i = 1;
+        int iToFind = sz - n;
+        Node prev = head;
+        while (i < iToFind) {
+            prev = prev.next;
+            i++;
+        }
+        prev.next = prev.next.next;
+        return;
+    }
+
     /**
      * Test all LinkedList operations
      * Demonstrates: Add operations, Remove operations, Search operation
      */
     public static void main(String[] args) {
-        linklist ll = new linklist();
+        LinkedList ll = new LinkedList();
 
         // Test addFirst
         ll.addFirst(1);
@@ -277,5 +315,17 @@ public class LinkedList {
         // Test Recursive Search
         System.out.println(ll.recSearch(3));
         System.out.println(ll.recSearch(10));
+
+        // Test Reverse
+        ll.reverse();
+        ll.printLinklist();
+
+        ll.deleteNthFromEnd(3);
+        ll.printLinklist();
+    }
+
+    public char[] checkPalindrom() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'checkPalindrom'");
     }
 }
