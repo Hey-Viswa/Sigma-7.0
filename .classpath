@@ -9,5 +9,7 @@
 	<classpathentry kind="src" path="06_LinkedList"/>
 	<classpathentry kind="src" path="07_BitManipulation"/>
 	<classpathentry kind="src" path="08_DivideAndConquer"/>
+	<classpathentry kind="src" path="09_Stacks/Basic"/>
+	<classpathentry kind="src" path="09_Stacks/Important"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
