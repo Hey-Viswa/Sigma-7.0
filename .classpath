@@ -11,5 +11,7 @@
 	<classpathentry kind="src" path="08_DivideAndConquer"/>
 	<classpathentry kind="src" path="09_Stacks/Basic"/>
 	<classpathentry kind="src" path="09_Stacks/Important"/>
+	<classpathentry kind="src" path="10_Queue/basic"/>
+	<classpathentry kind="src" path="10_Queue/Important"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
