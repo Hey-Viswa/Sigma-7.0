@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac2fd2da-20ca-4713-b0ed-8337a6b5fa04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/12_BinaryTrees/basic/DiameterOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_BinaryTrees/basic/DiameterOfTree.java" afterDir="false" />
-    </list>
+    <list default="true" id="ac2fd2da-20ca-4713-b0ed-8337a6b5fa04" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +86,7 @@
       <workItem from="1752845777828" duration="271000" />
       <workItem from="1752846064440" duration="1014000" />
       <workItem from="1754732139502" duration="1210000" />
+      <workItem from="1754808224267" duration="33000" />
     </task>
     <servers />
   </component>
