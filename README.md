@@ -111,6 +111,45 @@ A comprehensive collection of DSA problems and solutions commonly asked in techn
 ### 🟣 Flipkart
 - E-commerce related algorithms, Sorting, Searching, Array problems
 
+
+## 🧩 Advanced Data Structures & Algorithms
+
+### 14. 🛢️ Heaps
+- **Location**: `14_Heaps/`
+  - `Basic/` - Min/Max heap implementations, basic operations
+  - `Important/` - Priority queue, K largest elements, median problems
+  - `Practice/` - Advanced heap problems
+
+### 15. #️⃣ Hashing
+- **Location**: `15_Hashing/`
+  - `Basic/` - Hash table implementation, collision handling
+  - `Important/` - Two Sum, substring problems, anagrams
+  - `Practice/` - Advanced hashing applications
+
+### 16. 🌲 Tries
+- **Location**: `16_Tries/`
+  - `Basic/` - Trie structure, insert/search/delete operations
+  - `Important/` - Word search, auto-complete, prefix matching
+  - `Practice/` - Advanced trie problems
+
+### 17. 🕸️ Graphs
+- **Location**: `17_Graphs/`
+  - `Basic/` - Graph representations, DFS, BFS
+  - `Important/` - Shortest path, MST, topological sort
+  - `Practice/` - Network flow, graph coloring
+
+### 18. 🧮 Dynamic Programming
+- **Location**: `18_Dynamic_Programming/`
+  - `Basic/` - Fibonacci, climbing stairs, 1D DP
+  - `Important/` - LCS, LIS, knapsack, coin change
+  - `Practice/` - 2D DP, tree DP, bitmask DP
+
+### 19. 🏗️ Segment Trees
+- **Location**: `19_Segment_Trees/`
+  - `Basic/` - Basic segment tree, range queries
+  - `Important/` - Lazy propagation, range updates
+  - `Practice/` - Advanced applications, persistent trees
+
 ## 📈 Complexity Analysis
 
 ### Time Complexities

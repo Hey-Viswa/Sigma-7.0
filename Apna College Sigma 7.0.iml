@@ -3,8 +3,52 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Arrays/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Arrays/TwoDimensional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Arrays/TwoPointers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01_Arrays/DynamicProgramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Strings/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_Strings/Algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_SearchingAndSorting/Searching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_SearchingAndSorting/Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_Recursion/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_Recursion/Advanced" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_BackTracking/Core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_BackTracking/PathFinding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_LinkedList/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_LinkedList/classicalQuestion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_BitManipulation/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_DivideAndConquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_Stacks/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_Stacks/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_Stacks/PracticeSet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_Queue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Greedy/basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Greedy/important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Greedy/practice-Questions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_Binary_Trees/basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_Binary_Trees/important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_Binary_Trees/PracticeQuestions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_Binary_Search_Tree/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Heaps/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Heaps/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Heaps/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_Hashing/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_Hashing/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_Hashing/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_Tries/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_Tries/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_Tries/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_Graphs/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_Graphs/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17_Graphs/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_Dynamic_Programming/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_Dynamic_Programming/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_Dynamic_Programming/Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_Segment_Trees/Basic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_Segment_Trees/Important" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_Segment_Trees/Practice" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/bin" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

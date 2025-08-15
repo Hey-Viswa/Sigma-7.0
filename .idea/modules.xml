@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/10_Queue/10_Queue.iml" filepath="$PROJECT_DIR$/10_Queue/10_Queue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Apna College Sigma 7.0.iml" filepath="$PROJECT_DIR$/.idea/Apna College Sigma 7.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apna College Sigma 7.0.iml" filepath="$PROJECT_DIR$/Apna College Sigma 7.0.iml" />
     </modules>
   </component>
 </project>

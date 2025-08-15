@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="01_Arrays"/>
-	<classpathentry kind="src" path="02_Strings"/>
-	<classpathentry kind="src" path="03_SearchingAndSorting"/>
-	<classpathentry kind="src" path="04_Recursion"/>
-	<classpathentry kind="src" path="05_BackTracking"/>
-	<classpathentry kind="src" path="06_LinkedList"/>
-	<classpathentry kind="src" path="07_BitManipulation"/>
+	<classpathentry kind="src" path="01_Arrays/Basic"/>
+	<classpathentry kind="src" path="01_Arrays/TwoDimensional"/>
+	<classpathentry kind="src" path="01_Arrays/TwoPointers"/>
+	<classpathentry kind="src" path="01_Arrays/DynamicProgramming"/>
+	<classpathentry kind="src" path="02_Strings/Basic"/>
+	<classpathentry kind="src" path="02_Strings/Algorithms"/>
+	<classpathentry kind="src" path="03_SearchingAndSorting/Searching"/>
+	<classpathentry kind="src" path="03_SearchingAndSorting/Sorting"/>
+	<classpathentry kind="src" path="04_Recursion/Basic"/>
+	<classpathentry kind="src" path="04_Recursion/Advanced"/>
+	<classpathentry kind="src" path="05_BackTracking/Core"/>
+	<classpathentry kind="src" path="05_BackTracking/PathFinding"/>
+	<classpathentry kind="src" path="06_LinkedList/Basic"/>
+	<classpathentry kind="src" path="06_LinkedList/classicalQuestion"/>
+	<classpathentry kind="src" path="07_BitManipulation/Basic"/>
 	<classpathentry kind="src" path="08_DivideAndConquer"/>
 	<classpathentry kind="src" path="09_Stacks/Basic"/>
 	<classpathentry kind="src" path="09_Stacks/Important"/>
-	<classpathentry kind="src" path="10_Queue/basic"/>
-	<classpathentry kind="src" path="10_Queue/Important"/>
+	<classpathentry kind="src" path="09_Stacks/PracticeSet"/>
+	<classpathentry kind="src" path="10_Queue/src"/>
+	<classpathentry kind="src" path="11_Greedy/basic"/>
+	<classpathentry kind="src" path="11_Greedy/important"/>
+	<classpathentry kind="src" path="11_Greedy/practice-Questions"/>
+	<classpathentry kind="src" path="12_Binary_Trees/basic"/>
+	<classpathentry kind="src" path="12_Binary_Trees/important"/>
+	<classpathentry kind="src" path="12_Binary_Trees/PracticeQuestions"/>
+	<classpathentry kind="src" path="13_Binary_Search_Tree/Basic"/>
+	<classpathentry kind="src" path="14_Heaps/Basic"/>
+	<classpathentry kind="src" path="14_Heaps/Important"/>
+	<classpathentry kind="src" path="14_Heaps/Practice"/>
+	<classpathentry kind="src" path="15_Hashing/Basic"/>
+	<classpathentry kind="src" path="15_Hashing/Important"/>
+	<classpathentry kind="src" path="15_Hashing/Practice"/>
+	<classpathentry kind="src" path="16_Tries/Basic"/>
+	<classpathentry kind="src" path="16_Tries/Important"/>
+	<classpathentry kind="src" path="16_Tries/Practice"/>
+	<classpathentry kind="src" path="17_Graphs/Basic"/>
+	<classpathentry kind="src" path="17_Graphs/Important"/>
+	<classpathentry kind="src" path="17_Graphs/Practice"/>
+	<classpathentry kind="src" path="18_Dynamic_Programming/Basic"/>
+	<classpathentry kind="src" path="18_Dynamic_Programming/Important"/>
+	<classpathentry kind="src" path="18_Dynamic_Programming/Practice"/>
+	<classpathentry kind="src" path="19_Segment_Trees/Basic"/>
+	<classpathentry kind="src" path="19_Segment_Trees/Important"/>
+	<classpathentry kind="src" path="19_Segment_Trees/Practice"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
