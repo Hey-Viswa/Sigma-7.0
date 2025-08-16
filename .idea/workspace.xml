@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac2fd2da-20ca-4713-b0ed-8337a6b5fa04" name="Changes" comment="" />
+    <list default="true" id="ac2fd2da-20ca-4713-b0ed-8337a6b5fa04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/PrintInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/RootToLeafPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_Binary_Search_Tree/important/BSTValidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/Basic/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/Basic/PairsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/DiagonalMatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/DiagonalMatrixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/DiagonalMatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/DiagonalMatrixSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/SearchInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/SearchInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/Important/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/SearchInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/SearchInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoDimensional/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoDimensional/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Arrays/TwoPointers/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/01_Arrays/TwoPointers/PairsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Recursion/Advanced/FirstOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Recursion/Advanced/FirstOccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Recursion/Advanced/FriendPairingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Recursion/Advanced/FriendPairingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Recursion/Advanced/IsSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Recursion/Advanced/IsSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Recursion/Basic/FirstOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Recursion/Basic/FirstOccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_Recursion/Basic/FriendPairingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/04_Recursion/Basic/FriendPairingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_LinkedList/Basic/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_LinkedList/Basic/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_LinkedList/Basic/doublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_LinkedList/Basic/doublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_LinkedList/Basic/linklist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_LinkedList/Basic/mergesortll.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_LinkedList/Basic/mergesortll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_LinkedList/Basic/reverseaDLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_LinkedList/Basic/reverseaDLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_BitManipulation/Basic/Chartolower.java" beforeDir="false" afterPath="$PROJECT_DIR$/07_BitManipulation/Basic/Chartolower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Stacks/Basic/ValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/09_Stacks/Basic/ValidParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Queue/src/Important/QueueUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Queue/src/Important/QueueUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Queue/src/Important/StackUsingTwoQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Queue/src/Important/StackUsingTwoQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Queue/src/practiceQuestions/JobSequencingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/10_Queue/src/practiceQuestions/JobSequencingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Greedy/basic/IndianCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Greedy/basic/IndianCoins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Greedy/basic/JobSequencingProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/11_Greedy/basic/JobSequencingProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Binary_Trees/basic/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_Binary_Trees/basic/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Binary_Trees/basic/DiameterOfTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_Binary_Trees/basic/DiameterOfTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Binary_Trees/basic/KthLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_Binary_Trees/basic/KthLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Binary_Trees/basic/MinDistanceBetweenNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_Binary_Trees/basic/MinDistanceBetweenNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Binary_Trees/basic/Preorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/12_Binary_Trees/basic/Preorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/DeleteANode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Binary_Search_Tree/Basic/SearchInBST.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +71,13 @@
     &quot;accountId&quot;: &quot;682ac05d-92ea-42df-b0d5-4988052519c7&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -43,34 +89,51 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Interleave2HalvesOfaQueue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueueReversal.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Coding/Apna College Sigma 7.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;E:/Coding/Apna College Sigma 7.0/10_Queue/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BST.executor": "Run",
+    "Application.Interleave2HalvesOfaQueue.executor": "Run",
+    "Application.QueueReversal.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/agent/Sigma-7.0/13_Binary_Search_Tree",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Coding/Apna College Sigma 7.0/10_Queue/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "show.migrate.to.gradle.popup": "false",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\agent\Sigma-7.0\13_Binary_Search_Tree" />
+      <recent name="C:\Users\agent\Sigma-7.0\13_Binary_Search_Tree\Important" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agent\Sigma-7.0\13_Binary_Search_Tree\important" />
+      <recent name="C:\Users\agent\Sigma-7.0\13_Binary_Search_Tree" />
+      <recent name="C:\Users\agent\Sigma-7.0\13_Binary_Search_Tree\Basic" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
@@ -87,6 +150,11 @@
       <workItem from="1752846064440" duration="1014000" />
       <workItem from="1754732139502" duration="1210000" />
       <workItem from="1754808224267" duration="33000" />
+      <workItem from="1755247219764" duration="29000" />
+      <workItem from="1755327102903" duration="1119000" />
+      <workItem from="1755328403009" duration="53000" />
+      <workItem from="1755328474428" duration="3947000" />
+      <workItem from="1755346122735" duration="2361000" />
     </task>
     <servers />
   </component>

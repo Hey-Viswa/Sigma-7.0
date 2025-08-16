@@ -1,10 +1,12 @@
 import java.util.Stack;
 
-import Basic.reverseaDLL;
-
 public class ValidParenthesis {
     public static void main(String[] args) {
         String str = "({})[]";
+        System.out.println("String: " + str + " is valid: " + isValid(str));
+        
+        String str2 = "({[})]";
+        System.out.println("String: " + str2 + " is valid: " + isValid(str2));
     }
 
     public static boolean isValid(String str) {

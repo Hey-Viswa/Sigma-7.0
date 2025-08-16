@@ -1,5 +1,6 @@
 public class BinaryTree {
     static class Node {
+        public int val;
         int data;
         Node left;
         Node right;
@@ -10,7 +11,7 @@ public class BinaryTree {
             this.right = null;
         }
     }
-    static class BinaryTree{
+    static class BinaryTreeBuilder{
         static int idx = -1;
         public static Node buildtree(int nodes[]){
             idx++;
@@ -25,9 +26,9 @@ public class BinaryTree {
         }
     }
     public static void main(String[] args) {
-        int nodes= {1,2,4,-1,-1,5,-1,-1,6,-1,-1};
-        BinaryTree tree = new BinaryTree();
-        Node root = tree.buildtree(nodes);
+        int nodes[] = {1,2,4,-1,-1,5,-1,-1,3,-1,6,-1,-1};
+        BinaryTreeBuilder builder = new BinaryTreeBuilder();
+        Node root = builder.buildtree(nodes);
         System.out.println(root.data);
     }
 }

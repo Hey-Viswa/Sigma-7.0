@@ -1,4 +1,4 @@
-package Important;
+package arrays.two_dimensional.important;
 
 public class SpiralMatrix {
     public static void main(String[] args) {

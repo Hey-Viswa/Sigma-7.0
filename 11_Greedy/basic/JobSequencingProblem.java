@@ -8,7 +8,7 @@ public class JobSequencingProblem {
         int profit;
         int id;
 
-        pubic Job(int i ,int d, int p){
+        public Job(int i, int d, int p) {
             id = i;
             deadline = d;
             profit = p;

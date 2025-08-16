@@ -1,10 +1,16 @@
-package Basic;
-
-import javax.lang.model.type.IntersectionType;
-
-import Basic.LinkedList.Node;
-
 public class doublyLinkedList {
+    static class Node {
+        int data;
+        Node next;
+        Node prev;
+        
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+            this.prev = null;
+        }
+    }
+    
     public static Node head;
     public static Node tail;
     public static int size;
@@ -25,6 +31,7 @@ public class doublyLinkedList {
     // add
     public void addFirst(int data) {
         Node newNode = new Node(data);
+        size++;
         if (head == null) {
             head = tail = newNode;
             return;
@@ -56,7 +63,8 @@ public class doublyLinkedList {
     public void print() {
         Node temp = head;
         while (temp != null) {
-            System.out.println(temp.data + "<->");
+            System.out.print(temp.data + "<->");
+            temp = temp.next;
         }
         System.out.println("null");
     }

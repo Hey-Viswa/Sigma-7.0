@@ -1,5 +1,3 @@
-package Basic;
-
 /**
  * LinkedList Implementation with all basic operations
  * 

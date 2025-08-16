@@ -1,21 +1,26 @@
-import java.util.*;
+package Important;
+
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class StackUsingTwoQueue {
     static class Stack {
-        static Queue q1 = new LinkedList();
-        static Queue q2 = new LinkedList();
+        static Queue<Integer> q1 = new LinkedList<>();
+        static Queue<Integer> q2 = new LinkedList<>();
 
         public static boolean isEmpty() {
             return q1.isEmpty() && q2.isEmpty();
         }
-        
-        // add
+
+        // push
         public static void push(int data) {
             if (!q1.isEmpty()) {
                 q1.add(data);
             } else {
                 q2.add(data);
             }
+        }
+
         // pop
         public static int pop() {
             if (isEmpty()) {
@@ -24,7 +29,6 @@ public class StackUsingTwoQueue {
             }
             int top = -1;
 
-            // case 1
             if (!q1.isEmpty()) {
                 while (!q1.isEmpty()) {
                     top = q1.remove();
@@ -34,7 +38,6 @@ public class StackUsingTwoQueue {
                     q2.add(top);
                 }
             } else {
-                // case 2
                 while (!q2.isEmpty()) {
                     top = q2.remove();
                     if (q2.isEmpty()) {
@@ -45,7 +48,7 @@ public class StackUsingTwoQueue {
             }
             return top;
         }
-        }
+
         public static int peek() {
             if (isEmpty()) {
                 System.out.println("empty stack");
@@ -58,14 +61,12 @@ public class StackUsingTwoQueue {
                     q2.add(top);
                 }
             } else {
-                // case 2
                 while (!q2.isEmpty()) {
                     top = q2.remove();
                     q1.add(top);
                 }
             }
             return top;
-        }
         }
     }
 
@@ -74,4 +75,8 @@ public class StackUsingTwoQueue {
         s.push(1);
         s.push(2);
         s.push(3);
+        System.out.println(s.peek()); // 3
+        System.out.println(s.pop());  // 3
+        System.out.println(s.peek()); // 2
     }
+}

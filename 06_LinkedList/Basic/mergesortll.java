@@ -1,8 +1,13 @@
-package Basic;
-
-import Basic.LinkedList.Node;
-
 public class mergesortll {
+    static class Node {
+        int data;
+        Node next;
+        
+        Node(int data) {
+            this.data = data;
+            this.next = null;
+        }
+    }
     // ll ->> middle
     // left half
     // right half

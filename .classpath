@@ -28,6 +28,8 @@
 	<classpathentry kind="src" path="12_Binary_Trees/important"/>
 	<classpathentry kind="src" path="12_Binary_Trees/PracticeQuestions"/>
 	<classpathentry kind="src" path="13_Binary_Search_Tree/Basic"/>
+	<classpathentry kind="src" path="13_Binary_Search_Tree/important"/>
+	<classpathentry kind="src" path="13_Binary_Search_Tree/practice-set"/>
 	<classpathentry kind="src" path="14_Heaps/Basic"/>
 	<classpathentry kind="src" path="14_Heaps/Important"/>
 	<classpathentry kind="src" path="14_Heaps/Practice"/>

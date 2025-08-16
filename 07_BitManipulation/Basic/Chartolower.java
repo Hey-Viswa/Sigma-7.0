@@ -1,4 +1,4 @@
-public class BitwiseToLower {
+public class Chartolower {
 
     public static void main(String[] args) {
         char uppercase = 'G';

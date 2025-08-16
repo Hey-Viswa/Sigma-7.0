@@ -1,4 +1,4 @@
-package Recursion;
+package recursion.advanced;
 
 public class IsSorted {
     public static void main(String[] args) {

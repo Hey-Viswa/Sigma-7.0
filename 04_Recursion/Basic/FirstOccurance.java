@@ -1,4 +1,4 @@
-package Recursion;
+package recursion.basic;
 
 public class FirstOccurance {
     public static void main(String[] args) {

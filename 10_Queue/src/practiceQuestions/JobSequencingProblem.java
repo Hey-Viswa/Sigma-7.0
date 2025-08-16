@@ -8,7 +8,7 @@ public class JobSequencingProblem {
         int deadline;
         int profit;
 
-        job(char job_id, int deadline, int profit){
+        void job(char job_id, int deadline, int profit){
             this.deadline = deadline;
             this.job_id = job_id;
             this.profit = profit;

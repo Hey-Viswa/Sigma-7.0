@@ -1,4 +1,4 @@
-package Important;
+package arrays.two_dimensional.important;
 
 public class DiagonalMatrixSum {
     // public static int diagonal(int matrix[][]) {

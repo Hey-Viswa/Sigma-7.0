@@ -57,7 +57,6 @@ public class BST {
         if (node == null) {
             return false;
         }
-
         if (val < node.val) {
             return find(node.left, val);
         } else if (val > node.val) {
@@ -65,6 +64,41 @@ public class BST {
         } else {
             return true;
         }
+    }
+
+    // Delete a node from the BST
+    public void delete(int val) {
+        root = delete(root, val);
+    }
+
+    private Node delete(Node root, int val) {
+        if (root == null) {
+            return null;
+        }
+        if (val < root.val) {
+            root.left = delete(root.left, val);
+        } else if (val > root.val) {
+            root.right = delete(root.right, val);
+        } else {
+            // Node to be deleted found
+            if (root.left == null) {
+                return root.right;
+            } else if (root.right == null) {
+                return root.left;
+            }
+            // Node with two children: get inorder successor (smallest in the right subtree)
+            Node successor = findInOrderSuccessor(root.right);
+            root.val = successor.val;
+            root.right = delete(root.right, successor.val);
+        }
+        return root;
+    }
+
+    private Node findInOrderSuccessor(Node node) {
+        while (node != null && node.left != null) {
+            node = node.left;
+        }
+        return node;
     }
 
     // Example usage
@@ -82,5 +116,7 @@ public class BST {
 
         System.out.println("Is 40 in the tree? " + tree.find(40));
         System.out.println("Is 90 in the tree? " + tree.find(90));
+
+
     }
 }
